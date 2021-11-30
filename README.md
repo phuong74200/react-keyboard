@@ -1,2 +1,2 @@
-on screen keyboard using react
-an a animated background using canvas =))
+on screen keyboard using react \n
+and a animated background using canvas =))
